@@ -1,4 +1,4 @@
-package lesson1;
+package src.lesson1;
 
 public class MyClass {
 /* This is a new start for me in Java */

@@ -1,4 +1,4 @@
-package Inheritance;
+package src.Inheritance;
 
 public class Rectangle extends Polygon{
 	public double area(){
